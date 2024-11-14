@@ -1,0 +1,22 @@
+{
+  "name": "api_error_test",
+  "version": "1.0.0",
+  "description": "Testing errors api and function ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start" : "node server.js"
+  },
+  "keywords": [
+    "express",
+    "jest",
+    "supertest"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
